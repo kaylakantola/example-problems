@@ -1,4 +1,4 @@
-# Getting Started with the Command Line
+# The Command Line
 
 Knowing how to use your terminal will make you feel like you're hacking into the mainframe and also will make your bootcamp experienc way smoother.
 
