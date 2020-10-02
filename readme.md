@@ -6,6 +6,8 @@ Specifically, this is intended for use by people who are thinking of doing a jav
 
 This assumes you have maybe already done some self-teaching, and you need some practical problems to solve in order to get to the next level. 
 
+This also assumes you're using a Mac - if not ... sorry! Most of this will still be relevant but YMMV.
+
 If you can complete the tasks in all the folders here, you'll be ahead of the curve and get the most out of your bootcamp experience (which is great, because those things are expensive!).
 
 This isn't exhaustive, but it is a nice start! 
